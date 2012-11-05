@@ -1,0 +1,6 @@
+http://www.packtpub.com/article/web-scraping-with-python-part-2
+http://blog.motane.lu/2009/06/18/pywebkitgtk-execute-javascript-from-python/
+http://wwwsearch.sourceforge.net/ClientForm/
+http://bbs.archlinux.org/viewtopic.php?id=61276s
+http://www.mayukhbose.com/python/IEC/index.php -------->> Potential Intel
+http://www.palewire.com/posts/2008/04/20/python-recipe-grab-a-page-scrape-a-table-download-a-file/
